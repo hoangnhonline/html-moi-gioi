@@ -62,16 +62,16 @@
             <li><a href="#" class="trangchu active_trangchu">trang chủ</a></li>
             <li><a href="#gioi-thieu.html" class="gioithieu ">giới thiệu</a></li>
 
-            <li><a class="trangchu " href="#bat-dong-san/dat-nen.html"><h2>Dự án bán</h2></a>
+            <li><a class="trangchu " href="#bat-dong-san/dat-nen.html">Dự án bán</a>
             </li>
-            <li><a class="trangchu " href="#bat-dong-san/can-ho.html"><h2>Nhà bán </h2></a>
+            <li><a class="trangchu " href="#bat-dong-san/can-ho.html">Nhà bán </a>
             </li>
-            <li><a class="trangchu " href="#bat-dong-san/nha-xuong.html"><h2>Nhà cho thuê</h2></a>
+            <li><a class="trangchu " href="#bat-dong-san/nha-xuong.html">Nhà cho thuê</a>
 
             </li>
-            <li><a href="#phong-thuy.html" class="phongthuy "><h2>ký gửi</h2></a></li>
-            <li><a href="#tin-tuc.html" class="tintuc "><h2>tin tức</h2></a></li>
-            <li><a href="#lien-he.html" class="lienhe "><h2>liên hệ</h2></a></li>
+            <li><a href="#phong-thuy.html" class="phongthuy ">ký gửi</a></li>
+            <li><a href="#tin-tuc.html" class="tintuc ">tin tức</a></li>
+            <li><a href="#lien-he.html" class="lienhe ">liên hệ</a></li>
         </ul>
         <div class="clear"></div>
     </div>

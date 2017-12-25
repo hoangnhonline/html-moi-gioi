@@ -79,14 +79,7 @@
                 <a href="#" title=""><img src="images/logo_gd.jpg" alt=""></a>
             </div><!-- /block-log -->
             <div class="block-search col-sm-6 col-xs-7">
-                <form name="frm_search" action="" class="frm-search">
-                    <div class="control clearfix">
-                        <button type="submit">
-                            <i class="fa fa-search"></i>
-                        </button>
-                        <input type="text" name="" placeholder="Từ khóa tìm kiếm" autocomplete="off">
-                    </div>
-                </form>
+               
             </div><!-- /block-search -->
             <div class="block-user col-sm-3 col-xs-12">
                 <div class="block-content">
