@@ -5632,7 +5632,7 @@ ul.tabs li a {
     height: auto;
     border: 1px solid rgba(204, 204, 204, 0.35);
     float: left;
-    margin-right: 2%;
+    margin-right: 1%;
     transition: all 0.5s;
     margin-bottom: 20px;
 }
@@ -5723,6 +5723,8 @@ ul.tabs li a {
     padding: 2px;
     text-align: center;
     color: #868383;
+    width: 50%;
+    float: left
 }
 
 .thamgiaban {
@@ -6515,4 +6517,19 @@ ul.tabs li a {
 }
 .user-dropdown-logout .btn .fa {
     margin-right: 10px;
+}
+.title-home{
+      font-size: 15px;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+.tham-gia-ban {
+    position: absolute;
+    bottom: 3px;
+    right: 0px;
+    background-color: #FF5E10;
+    color: #fff;
+    font-size: 13px;
+    padding: 5px 10px;
+    transition: all 0.5s;
 }
